@@ -1,0 +1,45 @@
+D:\项目-安防接口Demo\ZKPushDemo\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Dal.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Dal.dll
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Dal.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\System.Data.SQLite.dll
+D:\项目-安防接口Demo\ZKPushDemo\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\项目-安防接口Demo\ZKPushDemo\Dal\obj\Debug\Dal.dll
+D:\项目-安防接口Demo\ZKPushDemo\Dal\obj\Debug\Dal.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Model.dll
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Model.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Model.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Utils.dll
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Utils.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Dal\bin\Debug\Utils.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Dal.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Dal.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Dal.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Model.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\System.Data.SQLite.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Utils.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Model.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Model.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Utils.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Utils.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\DAL.csproj.CopyComplete
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\Dal.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\Dal.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Dal.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Dal.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Dal.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\System.Data.SQLite.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Model.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Model.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Utils.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\bin\Debug\Utils.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\DAL.csproj.CopyComplete
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\Dal.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Dal\obj\Debug\Dal.pdb

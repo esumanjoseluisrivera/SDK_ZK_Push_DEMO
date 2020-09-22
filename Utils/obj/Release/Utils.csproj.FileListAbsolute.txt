@@ -1,0 +1,12 @@
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\bin\Release\Utils.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\bin\Release\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\bin\Release\Utils.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\obj\Release\Utils.csproj.CoreCompileInputs.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\obj\Release\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\obj\Release\Utils.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Utils\bin\Release\Utils.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Utils\bin\Release\Utils.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Utils\bin\Release\Utils.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Utils\obj\Release\Utils.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Utils\obj\Release\Utils.pdb

@@ -1,0 +1,54 @@
+D:\项目-安防接口Demo\ZKPushDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\BLL.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\BLL.dll
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\BLL.pdb
+D:\项目-安防接口Demo\ZKPushDemo\BLL\obj\Debug\BLL.dll
+D:\项目-安防接口Demo\ZKPushDemo\BLL\obj\Debug\BLL.pdb
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Dal.dll
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Model.dll
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\System.Data.SQLite.dll
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Dal.pdb
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Dal.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Model.pdb
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Model.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\项目-安防接口Demo\ZKPushDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Utils.dll
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Utils.pdb
+D:\项目-安防接口Demo\ZKPushDemo\BLL\bin\Debug\Utils.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\BLL.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\BLL.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\BLL.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Dal.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Model.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\System.Data.SQLite.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Utils.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Dal.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Dal.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Model.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Model.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Utils.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Utils.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\BLL.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\BLL.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\BLL.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Dal.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\System.Data.SQLite.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Dal.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Dal.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Model.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Model.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Utils.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Debug\Utils.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.pdb

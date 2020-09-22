@@ -1,0 +1,99 @@
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Access.exe.config
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Access.exe
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Access.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.Properties.Resources.resources
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.csproj.GenerateResource.cache
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.exe
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.FormX.resources
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.Form1.resources
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.UCDevice.resources
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.UCUpload.resources
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Model.dll
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Model.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Model.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.csprojAssemblyReference.cache
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.csproj.CopyComplete
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.FormMain.resources
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\BLL.dll
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Dal.dll
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\System.Data.SQLite.dll
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Utils.dll
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\BLL.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\BLL.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Dal.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Dal.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Utils.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Access\bin\Debug\Utils.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\Access\obj\Debug\Access.UCCommInfo.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Access.exe.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Access.exe
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Access.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\BLL.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Model.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Utils.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Dal.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\System.Data.SQLite.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\BLL.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\BLL.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Model.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Model.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Utils.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Utils.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Dal.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Dal.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.csprojAssemblyReference.cache
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.Form1.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.FormX.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.FormMain.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.Properties.Resources.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCCommInfo.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCDevice.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCUpload.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.csproj.GenerateResource.cache
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.csproj.CopyComplete
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.exe
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCAttendance.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCUser.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCDeviceCmd.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCServerLog.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCAttphoto.resources
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCOperateLog.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.csprojAssemblyReference.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.FormMain.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.Properties.Resources.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCAttendance.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCCommInfo.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCCreateCmd.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCDevice.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCOperateLog.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCDeviceCmd.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCUpload.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCUser.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCErrorLog.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.csproj.GenerateResource.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\BLL.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Dal.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\System.Data.SQLite.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\BLL.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\BLL.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Model.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Model.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Utils.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Utils.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Dal.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\Dal.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.csproj.CopyComplete
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCWorkCode.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\Access.UCSms.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\PushDemoAtt.exe.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\PushDemoAtt.exe
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\bin\Debug\PushDemoAtt.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\PushDemoAtt.exe
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Access\obj\Debug\PushDemoAtt.pdb

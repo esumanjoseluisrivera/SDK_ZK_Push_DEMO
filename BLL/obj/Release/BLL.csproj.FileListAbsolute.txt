@@ -1,0 +1,34 @@
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\BLL.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\BLL.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\BLL.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Dal.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\System.Data.SQLite.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Dal.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Dal.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Model.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Model.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Utils.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\bin\Release\Utils.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Release\BLL.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Release\BLL.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\BLL.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\BLL.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\BLL.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Dal.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Model.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\System.Data.SQLite.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Utils.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Dal.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Dal.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Model.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Model.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Utils.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\bin\Release\Utils.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\obj\Release\BLL.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\BLL\obj\Release\BLL.pdb

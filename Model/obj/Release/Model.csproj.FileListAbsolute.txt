@@ -1,0 +1,20 @@
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Release\Model.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Release\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Release\Model.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Release\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Release\Utils.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Release\Utils.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Release\Model.csprojAssemblyReference.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Release\Model.csproj.CopyComplete
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Release\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Release\Model.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\bin\Release\Model.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\bin\Release\Model.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\bin\Release\Model.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\bin\Release\Utils.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\bin\Release\Utils.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\bin\Release\Utils.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\obj\Release\Model.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Model\obj\Release\Model.pdb

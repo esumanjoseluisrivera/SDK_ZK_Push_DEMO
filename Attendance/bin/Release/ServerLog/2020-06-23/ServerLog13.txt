@@ -1,0 +1,1327 @@
+﻿Sever Start:  2020-06-23 13:18:21:662
+
+
+Sever Receive Data:  2020-06-23 13:19:39:068
+GET /iclock/cdata?SN=CKJF201960996&options=all&language=69&pushver=2.4.1&PushOptionsFlag=1 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:19:39:116
+HTTP/1.1 401 Unauthorized
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:19:39 GMT
+Content-Length: 19
+
+
+
+Sever Send Data:  2020-06-23 13:19:39:118
+Device Unauthorized
+
+Sever Receive Data:  2020-06-23 13:19:54:075
+GET /iclock/cdata?SN=CKJF201960996&options=all&language=69&pushver=2.4.1&PushOptionsFlag=1 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:19:54:120
+HTTP/1.1 401 Unauthorized
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:19:54 GMT
+Content-Length: 19
+
+
+
+Sever Send Data:  2020-06-23 13:19:54:121
+Device Unauthorized
+
+Sever Receive Data:  2020-06-23 13:20:08:998
+GET /iclock/cdata?SN=CKJF201960996&options=all&language=69&pushver=2.4.1&PushOptionsFlag=1 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:09:045
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:09 GMT
+Content-Length: 419
+
+
+
+Sever Send Data:  2020-06-23 13:20:09:048
+GET OPTION FROM:CKJF201960996
+Stamp=0
+OpStamp=0
+PhotoStamp=0
+TransFlag=TransData AttLog	OpLog	AttPhoto	EnrollUser	ChgUser	EnrollFP	ChgFP	FPImag	FACE	UserPic	WORKCODE	BioPhoto
+ErrorDelay=120
+Delay=10
+TimeZone=480
+TransTimes=
+TransInterval=30
+SyncTime=0
+Realtime=1
+ServerVer=2.2.14 2020-06-23
+PushProtVer=2.4.1
+PushOptionsFlag=1
+ATTLOGStamp=0
+OPERLOGStamp=0
+ATTPHOTOStamp=0
+ServerName=Logtime Server
+MultiBioDataSupport=
+
+
+Sever Receive Data:  2020-06-23 13:20:10:548
+POST /iclock/cdata?SN=CKJF201960996&table=options HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 719
+
+~DeviceName=SpeedFace-V5L[TD],MAC=00:17:61:12:e5:41,TransactionCount=0,~MaxAttLogCount=20,UserCount=1,~MaxUserCount=100,PhotoFunOn=1,~MaxUserPhotoCount=2500,FingerFunOn=1,FPVersion=10,~MaxFingerCount=60,FPCount=1,FaceFunOn=1,FaceVersion=58,~MaxFaceCount=6000,FaceCount=0,FvFunOn=0,FvVersion=3,~MaxFvCount=10,FvCount=0,PvFunOn=1,PvVersion=12,~MaxPvCount=3000,PvCount=0,Language=69,IPAddress=192.168.54.216,~Platform=ZAM170_TFT,~OEMVendor=ZKTeco Co., Ltd.,FWVersion=ZAM170-NF-Ver1.1.27,PushVersion=Ver 2.0.32S-20200506,RegDeviceType=,VisilightFun=1,MultiBioDataSupport=0:1:0:0:0:0:0:0:1:1,MultiBioPhotoSupport=0:0:0:0:0:0:0:0:0:1,IRTempDetectionFunOn=1,MaskDetectionFunOn=1,UserPicURLFunOn=,VisualIntercomFunOn=,VideoTID=
+
+Sever Send Data:  2020-06-23 13:20:10:681
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:10 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:20:10:682
+OK
+
+Sever Receive Data:  2020-06-23 13:20:11:344
+POST /iclock/cdata?SN=CKJF201960996&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 238
+
+OPLOG 0	0	2020-06-23 13:19:24	0	0	0	0
+OPLOG 3	0	2020-06-23 13:19:37	55	0	0	0
+OPLOG 4	0	2020-06-23 13:19:42	0	0	0	0
+OPLOG 5	0	2020-06-23 13:20:44	DHCP	0	0	0
+OPLOG 5	0	2020-06-23 13:20:49	DHCP	0	0	0
+OPLOG 5	0	2020-06-23 13:20:50	DHCP	0	0	0
+
+
+Sever Send Data:  2020-06-23 13:20:11:898
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:11 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:20:11:900
+OK
+
+Sever Receive Data:  2020-06-23 13:20:13:507
+GET /iclock/getrequest?SN=CKJF201960996&INFO=ZAM170-NF-Ver1.1.27,1,1,0,192.168.54.216,10,58,12,0,11110 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:13:733
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:13 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:13:739
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:14:640
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:14:783
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:14 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:14:784
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:15:870
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:16:011
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:16 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:16:014
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:17:834
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:17:974
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:17 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:17:977
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:20:915
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:21:045
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:21 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:21:047
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:23:668
+POST /iclock/cdata?SN=CKJF201960996&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 38
+
+OPLOG 4	0	2020-06-23 13:20:22	0	0	0	0
+
+
+Sever Send Data:  2020-06-23 13:20:23:831
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:23 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:20:23:832
+OK
+
+Sever Receive Data:  2020-06-23 13:20:24:372
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:24:507
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:24 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:24:507
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:27:801
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:27:921
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:27 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:27:922
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:31:781
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:31:937
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:31 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:31:938
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:36:965
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:37:098
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:37 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:37:098
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:42:024
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:42:163
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:42 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:42:163
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:48:434
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:48:554
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:48 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:48:555
+OK
+
+
+Sever Receive Data:  2020-06-23 13:20:54:311
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:20:54:452
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:20:54 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:20:54:453
+OK
+
+
+Sever Receive Data:  2020-06-23 13:21:00:840
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:21:00:981
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:00 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:21:00:983
+OK
+
+
+Sever Receive Data:  2020-06-23 13:21:05:293
+POST /iclock/cdata?SN=CKJF201960996&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 118
+
+USER PIN=5	Name=yyyy	Pri=0	Passwd=1	Card=	Grp=1	TZ=0000000100000000	Verify=-1	ViceCard=	StartDatetime=0	EndDatetime=0
+
+
+Sever Send Data:  2020-06-23 13:21:05:506
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:05 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:21:05:546
+OK
+
+Sever Receive Data:  2020-06-23 13:21:06:095
+POST /iclock/cdata?SN=CKJF201960996&table=BIODATA&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 12340
+
+BIODATA Pin=5	No=0	Index=0	Valid=1	Duress=0	Type=8	MajorVer=12	MinorVer=0	Format=0	Tmp=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
+BIODATA Pin=5	No=0	Index=1	Valid=1	Duress=0	Type=8	MajorVer=12	MinorVer=0	Format=0	Tmp=apUBEOAHhJgIAAwAAayVAhPQEiHUUdbXSqpcQD/dBi0gZeLjcJ5iIBupMg0sae7v7Ib8NISVbgEpefr74Iq3NDBhGvWFhAYHHm9D0TgjF/mRkBITA/NO8S4nC6wf7B4fJ9c3xSQfNZAoHyoro9mtyzgKoYQ0CzY3s8jhyzhPrYxAf0JD7baFrnGr0XhccE5PcKozn2W3zW7AZFpbfHS7w1CD+3p+VWZnesap516PXIARjnJz97q1u3mLcoZFjX5/Q7IM9EeET3GJDYqLH7wIVFOQSnVVEZaXCsAUUG2dRnlhZaKjutooaFjaMk1tLa6vrsa/bMTKrkF5Obq7rsr3ZfSs2jVFRcbH+r6COerx33jRcdLT16JRsdrlyGzcZ97fY5Rxh+7dcVDo1+rrb5x1DvaBYUD0yvb3cYoxGt8PbUaQPAIDJf5vyzvrkxKQEA4PEbp/zyf3jw6gCRobGmJ6hDPBMMwnpSYnq+bt5ifdJvIB4TIzt2KCEjorstwktT4/0xbECURV3qGBhUpL3hDIRGEAyrWdlVZXygzUiC+ixrGZoWJjdjBpudqW8pWd7W5vciJ7qVIKboHp+Xp7Xgodjab9mnSVBYaHLvxp+YxxmDiAC5KTE+A155DlHCycg56fI9AnV6bVJRSolqqrjdwiS5NSMSo0ira3gUC2XY9eFSZO3cLDzXzqEtsowxZ23c7P3r/Wn8y93hnZWdrbUgKwE/+R6j7VJebn677fhe674oDoefLz56KTsfq59pVldf7/E1ZFETbJjmnRwQoLn1pBXSLuiv3tlRYXmmwV6a5ih/HZoSIjolwt/wxWs98dqS4vkgBR4xhYLsIptTo7mkhVT0S8TrRU30ZHzzwhO1gwwLxQy1JTcyQzp0g23NDWQl5fQRgm10cmzf7mdmprXZRmm0OS2eraanZ34MRSt2+c96YqgYKDjmu6O5cBqGWOjY6PHk7+X4oFmkupmZqbj+qbeaLjpsS4G6anu86vza7rosGtDbKzp9LT4apzNtUlFb6/S6ejsdaJT6lRQcrLT/mMPVKsWz0tXdbXW+GQK1ygVyvZbeLjQ92Lt8zHYx/1Y+7vV4Sdo/DY+gbhc/r724iVjxRsjuidvwYHLWxp8zFio8SfihITMWh1qyXfscLCAh4fBZxBnznkjf7CMioroJCHkyXAm+rfNTY3LKdoLQCtklFIgUJDSttNdFTRxpdNzU5PQjdRIBQpWrBEp1pbZztROUCffoR5m2ZnQwtlHU4mcwFljXJz3xddBfhx4xVtgX5/C73YcQS5HyOxBYqLBbXVfxHtCzctU5aXLYCRY72jB2tpR6KjifiPdqmUJ0AsQ66vldSZ47m4u1w4Q7q7mdiM5+3N5ygPPsbH7a34M8GrZxcrCtLTcfC16908c0MnT97fTMwP1/EtTn8raerr1It9qYgRfg1pdPb35GeDx8A9MmODgAIDKuWdd2i3FuwVsw4PPvEdY/SqCvAJ5xobsf9BaYCiN8Q12SYnlcNzfawmv0kjzTIzrZ0PzakEo50/2T4/WdkZu9V4/+Ppr0pLVdBdv2Fs6+eVs1ZXQcRjqk1gx/Whh2JjSehfkkRxM4Gvn25vVZVoG1l5Qy27inp7WdhMo4WGsll3d4aHLTzhF4jKvhdrIZKTsML6AZxWcgNPDZ6fnjeW9NodKh8jCKqrgguTEYz3+C93JLa31ll801QCIhjR38LDqHWNpyl21mzc087PvGGdtzRWwjDIp9rbwWeXkRHi9wXiCebn8WOyMF3T3UnWFfLz7W2lD+nFQ11fG/7/GZxRcwU5v6HP5woLFZCVaxEoy7vT+xYXNYTDfxAkzyXjxyIjKah/iyQ2WVHr2y4vjKxrjzAqRo3fzzo7AKAUo0AOcvuz9UZHZDZk1Uw2N9OjUFJTeMp35CBFdqePHF5fTk9P1BwdBfuv+GprAsGoB4nV7tRka3Z3FMW9F53NcliQz4KD6B1Jy+kZhuyIw46PyQtfS+UVgnme9ZqbxQdaRtC3k02DSaansTN5Qoy9lwGXX7KzjSnl37mpgxVbU76/uVy7ps3Vt2lPJ8rLgVB3o5zgAeETM9bXVFBjN9DmDKkHB+LjeHjfe+hWOF8bi+7vyEzJb/Qax2sP7/r71MPNYQj4M5/3BAYHJYdfqDSxGCGGYRITGwsToBBhKYfrjB4fTw2taMWdqwAofyorRaHobNGBPxQ8WzY3caHkaVWtMnBEL0JDDJ+KnTlBToRKI05PCIseiTRfZpl/lVpbNccfMQBjW61Xi2ZnEfEbh6R9V+FDn3JzPekPGrDJAd0Lk35/SQ2bSkw13OHuZ4qLAAEXRtgpQPdic5aXEBQjAoSkDGtWR6KjrCifO6BAOT9bq66vmJyBLb1crytuubq7kTOtiKk5SQ1OxcbHxVf/XcQ1/VM2+NLT31tZ0DthVfTQq97fa21kpgV9aYDoj+rrZSFwCxn5/bTwi/b3dSH2IAV0/zAGfwIDSM5O3ZgIO8QqMQ4Pfco7fdQWL9kqNRobdcU/0egwGuUWyyYnYbEf5aQcNMlC3zIz/akr3bOJYF1K0z4/y43NyV+FFCM+v0pLR4DF1UA4gCeis1ZXcxRRgVw0jYu0ZWJjTxhN+emQsf+4aW5vWr9FZL299fn/aXp7ceNJ6Rt48R9yqIaHAgYBRGw+BKCc5pKTHhod2vgLEfSa+56f
+BIODATA Pin=5	No=0	Index=2	Valid=1	Duress=0	Type=8	MajorVer=12	MinorVer=0	Format=0	Tmp=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
+BIODATA Pin=5	No=0	Index=3	Valid=1	Duress=0	Type=8	MajorVer=12	MinorVer=0	Format=0	Tmp=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
+BIODATA Pin=5	No=0	Index=4	Valid=1	Duress=0	Type=8	MajorVer=12	MinorVer=0	Format=0	Tmp=apUBEFwDa/wIAAwAAcUFBUoFy8OUVBLTsFoWV8JeGFmuXAgpYEG8WoBkAGquaAgvum50MYPxdI98NeiOh5hlBJm+7UhPQwDsawUIe4dJBPpzTA4Ma1YaqHtWFpZ3WhqW018S6H9wbFNzYjZWR24/qmNuPqLXfbaoS65cQ0e+UUNzfsXDD1KyzDMJo947wPXEM8KxCD/c7G0dTLtIKxXTxSJCwUAc/uUtC2rpKSDgxVUXEv1xDPayBwjKcPsE9sMdN/T3QfL+E734Amhv8Ab+M+AK/y8bGo2TRgon1eAX5ZL0fALt7xKgMy8uvCdoN9br3C42NNFWO7PvyjO/O6JYO/wp2v/AIkJg5Di3wAMmM5Uvtj0+sMWgAyegiYg8Z8WsfCNZpEAdKo3tQW/hb+mr62v9LG9zaTXzdvG5g3IZpYJu9wGRnwH7V4tdyUkHDQV1h00RdolxDXyKeg14l2EVfBMVEWCrYyxAvWUmtLdHKrSzUT6af3A6jrszMMiHGR6qw0Eaht8pQsobBNbKh0XK9vspPjPvda0rq5+tq4cZqtajUbbA/+fdDNtn2ZjnI5Q1p32GcIt96+329ed4yHn9Nf8d8BELEQW9f4kHGUIZyp80ne6LMTEbcZ8VHanq1RuFd13x9xiR1hOGFbVWMym9i04hH+99IBXazM8pxSrpsbs/faY/hkXmg0P3TjW/z0bHP5NKw1OBMhOUUbCXF98pdavbKlEbrhK9R5UWGqtt0guT++Fz7/3pTPp4aWRQ5jL9g3I7fY8RQwOfRVDHi0HNY4MdQX+awU1ii2vpcZNp522XZVFprxEtWa/lOVyolzF0q1VVQK9JLVS7HDlUt3s1XLqJPK7PPVDc2zlW1sdhUvbLTUig5K32r+s98sbnJdrTw13O8udpAt6fPS7vlwWG89LV7RPPcYLvq32OyM+LxxzLGaZBP/s2fRmHZhlzgUIVDH0OWRHRGm0X9ToxA7kdpWedHwGkOeLvJCXOYyv5Elk/bSXRQPEzpSsF+6ssOcxKj63txtKB0bOsBUeHeyltuHJPaaki2emeVpWGF5RZ/pvTXdG4V3lt5xPtauoLqQorpm2Jr+9xCmcrdwl4x+lMZf2dzgJbgD7jhIUA+AjpivRCrXK4FxZblWewVPc=
+
+
+Sever Send Data:  2020-06-23 13:21:06:730
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:06 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:21:06:732
+OK
+
+Sever Receive Data:  2020-06-23 13:21:09:635
+GET /iclock/getrequest?SN=CKJF201960996&INFO=ZAM170-NF-Ver1.1.27,1,1,0,192.168.54.216,10,58,12,0,11110 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:21:09:731
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:09 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:21:09:733
+OK
+
+
+Sever Receive Data:  2020-06-23 13:21:16:767
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:21:16:900
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:16 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:21:16:900
+OK
+
+
+Sever Receive Data:  2020-06-23 13:21:24:993
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:21:25:129
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:25 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:21:25:130
+OK
+
+
+Sever Receive Data:  2020-06-23 13:21:29:476
+POST /iclock/cdata?SN=CKJF201960996&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 118
+
+USER PIN=5	Name=yyyy	Pri=0	Passwd=1	Card=	Grp=1	TZ=0000000100000000	Verify=-1	ViceCard=	StartDatetime=0	EndDatetime=0
+
+
+Sever Send Data:  2020-06-23 13:21:29:524
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:29 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:21:29:565
+OK
+
+Sever Receive Data:  2020-06-23 13:21:30:118
+POST /iclock/cdata?SN=CKJF201960996&table=BIODATA&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 2841
+
+BIODATA Pin=5	No=0	Index=0	Valid=1	Duress=0	Type=9	MajorVer=58	MinorVer=10	Format=0	Tmp=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
+
+
+Sever Send Data:  2020-06-23 13:21:30:160
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:30 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:21:30:161
+OK
+
+Sever Receive Data:  2020-06-23 13:21:31:120
+POST /iclock/cdata?SN=CKJF201960996&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 80
+
+OPLOG 114	0	2020-06-23 13:21:28	5	0	0	0
+OPLOG 101	0	2020-06-23 13:21:28	5	0	0	0
+
+
+Sever Send Data:  2020-06-23 13:21:31:346
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:31 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:21:31:347
+OK
+
+Sever Receive Data:  2020-06-23 13:21:32:908
+POST /iclock/cdata?SN=CKJF201960996&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 36965
+
+BIOPHOTO PIN=5	FileName=5.jpg	Type=0	Size=36908	Content=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
+
+
+Sever Send Data:  2020-06-23 13:21:33:159
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:33 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:21:33:161
+OK
+
+Sever Receive Data:  2020-06-23 13:21:35:643
+GET /iclock/getrequest?SN=CKJF201960996&INFO=ZAM170-NF-Ver1.1.27,1,1,0,192.168.54.216,10,58,12,1,11110 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:21:35:742
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:35 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:21:35:744
+OK
+
+
+Sever Receive Data:  2020-06-23 13:21:43:812
+POST /iclock/cdata?SN=CKJF201960996&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 40
+
+OPLOG 103	0	2020-06-23 13:21:42	5	0	0	0
+
+
+Sever Send Data:  2020-06-23 13:21:43:962
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:43 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:21:43:963
+OK
+
+Sever Receive Data:  2020-06-23 13:21:44:691
+GET /iclock/getrequest?SN=CKJF201960996&INFO=ZAM170-NF-Ver1.1.27,0,0,0,192.168.54.216,10,58,12,0,11110 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:21:44:913
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:44 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:21:44:914
+OK
+
+
+Sever Receive Data:  2020-06-23 13:21:53:832
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:21:53:977
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:21:53 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:21:53:978
+OK
+
+
+Sever Receive Data:  2020-06-23 13:22:03:772
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:22:03:897
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:22:03 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:22:03:898
+OK
+
+
+Sever Receive Data:  2020-06-23 13:22:13:793
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:22:13:935
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:22:13 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:22:13:936
+OK
+
+
+Sever Receive Data:  2020-06-23 13:22:23:842
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:22:23:992
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:22:23 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:22:23:993
+OK
+
+
+Sever Receive Data:  2020-06-23 13:22:33:784
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:22:33:921
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:22:33 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:22:33:922
+OK
+
+
+Sever Receive Data:  2020-06-23 13:22:43:812
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:22:43:944
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:22:43 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:22:43:945
+OK
+
+
+Sever Receive Data:  2020-06-23 13:22:53:814
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:22:53:957
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:22:53 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:22:53:957
+OK
+
+
+Sever Receive Data:  2020-06-23 13:23:03:827
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:23:03:952
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:23:03 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:23:03:953
+OK
+
+
+Sever Receive Data:  2020-06-23 13:23:13:943
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:23:14:083
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:23:14 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:23:14:083
+OK
+
+
+Sever Receive Data:  2020-06-23 13:23:15:465
+POST /iclock/cdata?SN=CKJF201960996&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 38
+
+OPLOG 4	0	2020-06-23 13:23:14	0	0	0	0
+
+
+Sever Send Data:  2020-06-23 13:23:15:637
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:23:15 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-06-23 13:23:15:638
+OK
+
+Sever Receive Data:  2020-06-23 13:23:23:823
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:23:23:975
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:23:23 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:23:23:976
+OK
+
+
+Sever Receive Data:  2020-06-23 13:23:33:758
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:23:33:907
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:23:33 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:23:33:908
+OK
+
+
+Sever Receive Data:  2020-06-23 13:23:43:806
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:23:43:958
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:23:43 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:23:43:959
+OK
+
+
+Sever Receive Data:  2020-06-23 13:23:53:855
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:23:53:993
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:23:53 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:23:53:994
+OK
+
+
+Sever Receive Data:  2020-06-23 13:24:03:778
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:24:03:911
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:24:03 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:24:03:913
+OK
+
+
+Sever Receive Data:  2020-06-23 13:24:13:804
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:24:13:939
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:24:13 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:24:13:941
+OK
+
+
+Sever Receive Data:  2020-06-23 13:24:23:849
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:24:23:989
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:24:23 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:24:23:990
+OK
+
+
+Sever Receive Data:  2020-06-23 13:24:33:781
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:24:33:906
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:24:33 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:24:33:908
+OK
+
+
+Sever Receive Data:  2020-06-23 13:24:43:801
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:24:43:950
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:24:43 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:24:43:950
+OK
+
+
+Sever Receive Data:  2020-06-23 13:24:53:841
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:24:53:988
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:24:53 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:24:53:989
+OK
+
+
+Sever Receive Data:  2020-06-23 13:25:03:795
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:25:03:920
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:25:03 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:25:03:921
+OK
+
+
+Sever Receive Data:  2020-06-23 13:25:13:825
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:25:13:971
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:25:13 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:25:13:972
+OK
+
+
+Sever Receive Data:  2020-06-23 13:25:23:761
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:25:23:903
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:25:23 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:25:23:904
+OK
+
+
+Sever Receive Data:  2020-06-23 13:25:33:806
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:25:33:940
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:25:33 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:25:33:940
+OK
+
+
+Sever Receive Data:  2020-06-23 13:25:43:840
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:25:43:983
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:25:43 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:25:43:984
+OK
+
+
+Sever Receive Data:  2020-06-23 13:25:53:768
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:25:53:919
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:25:53 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:25:53:919
+OK
+
+
+Sever Receive Data:  2020-06-23 13:26:03:836
+GET /iclock/getrequest?SN=CKJF201960996 HTTP/1.1
+Host: 192.168.54.33:8080
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-06-23 13:26:03:965
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 23 Jun 2020 05:26:03 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-06-23 13:26:03:966
+OK
+
+

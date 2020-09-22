@@ -1,0 +1,68 @@
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\PushDemoAtt.exe.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\PushDemoAtt.exe
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\PushDemoAtt.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\BLL.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Dal.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\System.Data.SQLite.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\BLL.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\BLL.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Model.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Model.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Utils.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Utils.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Dal.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\bin\Release\Dal.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.csprojAssemblyReference.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.FormMain.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.Properties.Resources.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCAttendance.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCCommInfo.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCCreateCmd.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCDevice.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCOperateLog.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCDeviceCmd.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCSms.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCUpload.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCUser.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCErrorLog.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.UCWorkCode.resources
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.csproj.GenerateResource.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.csproj.CoreCompileInputs.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\Attendance.csproj.CopyComplete
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\PushDemoAtt.exe
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Release\PushDemoAtt.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\PushDemoAtt.exe.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\PushDemoAtt.exe
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\PushDemoAtt.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\BLL.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Model.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Utils.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Dal.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\System.Data.SQLite.dll
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\BLL.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\BLL.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Model.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Model.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Utils.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Utils.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Dal.pdb
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\bin\Release\Dal.dll.config
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.csprojResolveAssemblyReference.cache
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.FormMain.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.Properties.Resources.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCAttendance.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCCommInfo.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCCreateCmd.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCDevice.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCOperateLog.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCDeviceCmd.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCSms.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCUpload.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCUser.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCErrorLog.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.UCWorkCode.resources
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\Attendance.csproj.GenerateResource.Cache
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\PushDemoAtt.exe
+E:\Millenium.Net\TA PUSH SDK-20200801-C#-WinOS\C# demo\ZKAttendancePushDemo(20200702)\ZKPushDemo\Attendance\obj\Release\PushDemoAtt.pdb

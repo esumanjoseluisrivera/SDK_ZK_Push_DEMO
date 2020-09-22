@@ -1,0 +1,24 @@
+D:\项目-安防接口Demo\ZKPushDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\项目-安防接口Demo\ZKPushDemo\Model\bin\Debug\Model.dll.config
+D:\项目-安防接口Demo\ZKPushDemo\Model\bin\Debug\Model.dll
+D:\项目-安防接口Demo\ZKPushDemo\Model\bin\Debug\Model.pdb
+D:\项目-安防接口Demo\ZKPushDemo\Model\obj\Debug\Model.dll
+D:\项目-安防接口Demo\ZKPushDemo\Model\obj\Debug\Model.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Model.dll.config
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Model.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Model.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.dll
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.pdb
+D:\项目-安防接口Demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Model.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Model.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Utils.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Utils.pdb
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\bin\Debug\Utils.dll.config
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.csproj.CopyComplete
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.dll
+D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.pdb
