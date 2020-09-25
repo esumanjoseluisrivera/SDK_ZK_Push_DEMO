@@ -1,0 +1,4 @@
+﻿2020-09-25 08:44:36
+SQL logic error
+near "and": syntax error
+

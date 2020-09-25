@@ -1,0 +1,1218 @@
+﻿Sever Receive Data:  2020-09-24 17:00:02:213
+POST /iclock/cdata?SN=CKJF202560310&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 51
+
+OPLOG 4	0	2020-09-24 16:59:55	duress mng set	0	0	0
+
+
+Sever Send Data:  2020-09-24 17:00:02:422
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:00:02 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-09-24 17:00:02:431
+OK
+
+Sever Receive Data:  2020-09-24 17:00:09:185
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:00:09:269
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:00:09 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:00:09:275
+OK
+
+
+Sever Receive Data:  2020-09-24 17:00:19:156
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:00:19:239
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:00:19 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:00:19:246
+OK
+
+
+Sever Receive Data:  2020-09-24 17:00:29:119
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:00:29:255
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:00:29 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:00:29:263
+OK
+
+
+Sever Receive Data:  2020-09-24 17:00:38:386
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:00:38:479
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:00:38 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:00:38:485
+OK
+
+
+Sever Receive Data:  2020-09-24 17:00:42:341
+POST /iclock/cdata?SN=CKJF202560310&table=OPERLOG&Stamp=9999 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 38
+
+OPLOG 4	0	2020-09-24 17:00:34	0	0	0	0
+
+
+Sever Send Data:  2020-09-24 17:00:42:494
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:00:42 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-09-24 17:00:42:501
+OK
+
+Sever Receive Data:  2020-09-24 17:00:48:323
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:00:48:400
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:00:48 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:00:48:407
+OK
+
+
+Sever Receive Data:  2020-09-24 17:00:58:307
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:00:58:417
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:00:58 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:00:58:424
+OK
+
+
+Sever Receive Data:  2020-09-24 17:01:08:335
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:01:08:413
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:01:08 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:01:08:421
+OK
+
+
+Sever Receive Data:  2020-09-24 17:01:18:300
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:01:18:380
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:01:18 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:01:18:388
+OK
+
+
+Sever Receive Data:  2020-09-24 17:01:28:267
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:01:28:356
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:01:28 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:01:28:364
+OK
+
+
+Sever Receive Data:  2020-09-24 17:01:38:348
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:01:38:427
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:01:38 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:01:38:435
+OK
+
+
+Sever Receive Data:  2020-09-24 17:01:48:315
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:01:48:417
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:01:48 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:01:48:429
+OK
+
+
+Sever Receive Data:  2020-09-24 17:01:58:359
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:01:58:481
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:01:58 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:01:58:492
+OK
+
+
+Sever Receive Data:  2020-09-24 17:02:08:384
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:02:08:526
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:02:08 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:02:08:540
+OK
+
+
+Sever Receive Data:  2020-09-24 17:02:18:421
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:02:18:561
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:02:18 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:02:18:572
+OK
+
+
+Sever Receive Data:  2020-09-24 17:02:28:399
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:02:28:539
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:02:28 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:02:28:552
+OK
+
+
+Sever Receive Data:  2020-09-24 17:02:38:378
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:02:38:513
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:02:38 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:02:38:526
+OK
+
+
+Sever Receive Data:  2020-09-24 17:02:48:470
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:02:48:595
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:02:48 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:02:48:611
+OK
+
+
+Sever Receive Data:  2020-09-24 17:02:58:267
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:02:58:348
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:02:58 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:02:58:357
+OK
+
+
+Sever Receive Data:  2020-09-24 17:03:08:272
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:03:08:384
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:03:08 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:03:08:392
+OK
+
+
+Sever Receive Data:  2020-09-24 17:03:18:352
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:03:18:442
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:03:18 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:03:18:451
+OK
+
+
+Sever Receive Data:  2020-09-24 17:03:28:339
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:03:28:424
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:03:28 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:03:28:433
+OK
+
+
+Sever Receive Data:  2020-09-24 17:03:38:338
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:03:38:417
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:03:38 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:03:38:427
+OK
+
+
+Sever Receive Data:  2020-09-24 17:03:48:309
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:03:48:398
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:03:48 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:03:48:407
+OK
+
+
+Sever Receive Data:  2020-09-24 17:03:58:348
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:03:58:434
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:03:58 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:03:58:443
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:08:340
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:08:421
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:08 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:08:429
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:18:353
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:18:436
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:18 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:18:444
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:28:290
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:28:385
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:28 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:28:393
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:38:269
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:38:424
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:38 GMT
+Content-Length: 60
+
+
+
+Sever Send Data:  2020-09-24 17:04:38:434
+C:1689:DATA UPDATE WORKCODE PIN=1	CODE=0	NAME=Work Code 0
+
+
+
+Sever Receive Data:  2020-09-24 17:04:39:080
+POST /iclock/devicecmd?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: application/octet-stream
+Content-Length: 26
+
+ID=1689&Return=0&CMD=DATA
+
+
+Sever Send Data:  2020-09-24 17:04:39:097
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:39 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:39:107
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:40:260
+GET /iclock/getrequest?SN=CKJF202560310&INFO=ZAM170-NF-Ver1.3.5,5,4,38,192.168.1.201,10,58,12,2,11110 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:40:298
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:40 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:40:307
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:41:069
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:41:154
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:41 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:41:164
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:41:922
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:42:000
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:42 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:42:011
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:43:330
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:43:406
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:43 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:43:415
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:45:285
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:45:365
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:45 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:45:373
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:48:325
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:48:404
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:48 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:48:415
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:51:377
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:51:471
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:51 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:51:480
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:55:354
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:55:438
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:55 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:55:447
+OK
+
+
+Sever Receive Data:  2020-09-24 17:04:59:478
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:04:59:558
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:04:59 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:04:59:567
+OK
+
+
+Sever Receive Data:  2020-09-24 17:05:04:394
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:05:04:478
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:05:04 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:05:04:487
+OK
+
+
+Sever Receive Data:  2020-09-24 17:05:09:362
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:05:09:442
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:05:09 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:05:09:450
+OK
+
+
+Sever Receive Data:  2020-09-24 17:05:15:404
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:05:15:485
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:05:15 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:05:15:494
+OK
+
+
+Sever Receive Data:  2020-09-24 17:05:21:291
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:05:21:384
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:05:21 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:05:21:393
+OK
+
+
+Sever Receive Data:  2020-09-24 17:05:28:375
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:05:28:455
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:05:28 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:05:28:464
+OK
+
+
+Sever Receive Data:  2020-09-24 17:05:35:262
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:05:35:341
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:05:35 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:05:35:350
+OK
+
+
+Sever Receive Data:  2020-09-24 17:05:43:247
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:05:43:330
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:05:43 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:05:43:340
+OK
+
+
+Sever Receive Data:  2020-09-24 17:05:51:284
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:05:51:379
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:05:51 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:05:51:388
+OK
+
+
+Sever Receive Data:  2020-09-24 17:06:00:323
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:06:00:410
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:06:00 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:06:00:419
+OK
+
+
+Sever Receive Data:  2020-09-24 17:06:09:353
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:06:09:434
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:06:09 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:06:09:518
+OK
+
+
+Sever Receive Data:  2020-09-24 17:06:19:342
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:06:19:423
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:06:19 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:06:19:447
+OK
+
+
+Sever Receive Data:  2020-09-24 17:06:29:289
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:06:29:481
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:06:29 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:06:29:490
+OK
+
+
+Sever Receive Data:  2020-09-24 17:06:39:333
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:06:39:428
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:06:39 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:06:39:437
+OK
+
+
+Sever Receive Data:  2020-09-24 17:06:49:335
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:06:49:414
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:06:49 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:06:49:424
+OK
+
+
+Sever Receive Data:  2020-09-24 17:06:59:311
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 17:06:59:398
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 22:06:59 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 17:06:59:409
+OK
+
+

@@ -9,7 +9,7 @@ namespace Attendance
     static class Program
     {
         /// <summary>
-        /// 应用程序的主入口点。
+        /// El principal punto de entrada para la aplicación.
         /// </summary>
         [STAThread]
         static void Main()

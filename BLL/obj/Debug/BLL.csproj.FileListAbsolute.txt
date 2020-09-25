@@ -52,3 +52,21 @@ D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.csproj.CoreCompileIn
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.dll
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\BLL\obj\Debug\BLL.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\BLL.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\BLL.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\BLL.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Dal.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Model.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Utils.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Dal.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Dal.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Model.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Model.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Utils.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\bin\Debug\Utils.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\obj\Debug\BLL.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\BLL\obj\Debug\BLL.pdb

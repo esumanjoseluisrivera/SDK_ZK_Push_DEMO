@@ -68,3 +68,38 @@ D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Debug\Attendance.csproj
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Debug\Attendance.csproj.CopyComplete
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Debug\PushDemoAtt.exe
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Attendance\obj\Debug\PushDemoAtt.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\PushDemoAtt.exe.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\PushDemoAtt.exe
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\PushDemoAtt.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\BLL.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Model.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Utils.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Dal.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\System.Data.SQLite.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\BLL.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\BLL.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Model.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Model.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Utils.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Utils.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Dal.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\bin\Debug\Dal.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.csprojAssemblyReference.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.FormMain.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCAttendance.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCCommInfo.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCCreateCmd.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCDevice.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCOperateLog.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCDeviceCmd.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCSms.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCUpload.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCUser.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCErrorLog.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.UCWorkCode.resources
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\Attendance.csproj.CopyComplete
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\PushDemoAtt.exe
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Attendance\obj\Debug\PushDemoAtt.pdb

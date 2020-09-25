@@ -22,3 +22,14 @@ D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.csproj.CoreCompi
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.csproj.CopyComplete
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.dll
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Model\obj\Debug\Model.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\bin\Debug\Model.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\bin\Debug\Model.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\bin\Debug\Model.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\bin\Debug\Utils.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\bin\Debug\Utils.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\bin\Debug\Utils.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\obj\Debug\Model.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Model\obj\Debug\Model.pdb

@@ -67,15 +67,15 @@ namespace Attendance
             WindowState = FormWindowState.Minimized;
         }
         /// <summary>
-        /// 点击任务栏图标，显示/隐藏窗口
+        /// Haga clic en el icono de la barra de tareas para mostrar / ocultar la ventana
         /// </summary>
         protected override CreateParams CreateParams
         {
             get
             {
-                const int WS_MINIMIZEBOX = 0x00020000;  // Winuser.h中定义
+                const int WS_MINIMIZEBOX = 0x00020000;  // Winuser.definido en h
                 CreateParams cp = base.CreateParams;
-                cp.Style = cp.Style | WS_MINIMIZEBOX;   // 允许最小化操作
+                cp.Style = cp.Style | WS_MINIMIZEBOX;   // Permitir un funcionamiento mínimo
                 return cp;
             }
         }
@@ -92,8 +92,8 @@ namespace Attendance
 
         private void pnlTop_MouseDown(object sender, MouseEventArgs e)
         {
-            //拖动窗体
-            this.Cursor = System.Windows.Forms.Cursors.Hand;//改变鼠标样式
+            // Forma de arrastre
+            this.Cursor = System.Windows.Forms.Cursors.Hand; //Cambiar el estilo del mouse
             ReleaseCapture();
             SendMessage(this.Handle, WM_SYSCOMMAND, SC_MOVE + HTCAPTION, 0);
             this.Cursor = System.Windows.Forms.Cursors.Default;
@@ -117,39 +117,39 @@ namespace Attendance
         public enum PageIdEnum
         {
             /// <summary>
-            /// 设备页面
+            /// Página del dispositivo
             /// </summary>
             Device = 1,
             /// <summary>
-            /// 用户页面 
+            /// Página de usuario 
             /// </summary>
             User = 2,
             /// <summary>
-            /// 考勤记录页面
+            /// Página de registro de asistencia
             /// </summary>
             Attendance = 3,
             /// <summary>
-            /// 设备操作日志页面
+            /// Página de registro de funcionamiento del dispositivo
             /// </summary>
             DeviceOperationLog = 4,
             /// <summary>
-            /// 设备命令页面
+            /// Página de comandos del dispositivo
             /// </summary>
             DeviceCmd = 5,
             /// <summary>
-            /// 生成命令页面
+            /// Generar página de comando
             /// </summary>
             CreateCmd = 6,
             /// <summary>
-            /// 异常日志页面
+            /// Página de registro de excepciones
             /// </summary>
             ErrorLog = 7,
             /// <summary>
-            /// 短消息页面	
+            /// Página de SMS
             /// </summary>
             SMS = 8,
             /// <summary>
-            /// 工作代码页面       
+            /// Página de códigos de trabajo       
             /// </summary>
             WorkCode = 9
         }
@@ -208,7 +208,7 @@ namespace Attendance
                     break;
             }
 
-            //隐藏服务设备实时交互窗口
+            //Ocultar la ventana de interacción en tiempo real del dispositivo de servicio
             if (id == PageIdEnum.User
                 || id == PageIdEnum.Attendance
                 || id == PageIdEnum.DeviceOperationLog
@@ -222,7 +222,7 @@ namespace Attendance
             _currentPageId = (int)id;
             m_pageLoading = false;
         }
-        /// <summary>隐藏/显示实时交互信息
+        /// <summary>Ocultar / mostrar información interactiva en tiempo real
         /// </summary>
         /// <param name="visible"></param>
         private void SetUcCommandVisible(bool visible)
@@ -230,8 +230,8 @@ namespace Attendance
             this.ucCommInfo1.Visible = visible;
             this.scMain.Panel2Collapsed = !visible;
         }
-        private DateTime m_lastCollect = Tools.GetDateTimeNow();//最后一次GC时间
-        UserControl m_lastfrm = null;//当前界面
+        private DateTime m_lastCollect = Tools.GetDateTimeNow(); //Última hora de GC
+        UserControl m_lastfrm = null; //Interfaz actual
 
         /// <summary>LoadPage
         /// </summary>
@@ -409,7 +409,7 @@ namespace Attendance
             IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName());
             cmbIP.Text = "";
 
-            //获取服务器地址，且只保留IPV4地址
+            //Obtenga la dirección del servidor y solo conserve la dirección IPV4
             foreach (IPAddress ip in ipHost.AddressList)
             {
                 if (!Regex.IsMatch(ip.ToString(), @"^((2[0-4]\d|25[0-5]|[01]?\d\d?)\.){3}(2[0-4]\d|25[0-5]|[01]?\d\d?)$"))
@@ -463,7 +463,7 @@ namespace Attendance
             }
         }
 
-        #region 事件监听管理
+        #region Gestión de seguimiento de eventos
         private DeviceBll _deviceBll = null;
         private DeviceBll DeviceBll
         {
@@ -644,14 +644,14 @@ namespace Attendance
                         ((UCUser)m_lastfrm).UpdateUserFP10Info(fp);
                 }
             }
-            //当用户有指纹上传时，则更新list中对应用户的指纹数量
+            // Cuando el usuario tiene una huella digital para cargar, actualice el número de huellas digitales del usuario correspondiente en la lista
         }
         //Face tmplate copy to Database
         private void listenClient_OnNewFace(TmpFaceModel face)
         {
             if (FaceBll.Add(face) > 0)
             {
-                //当用户有面部上传时，则更新list中对应用户的面部数量
+                //Cuando el usuario tenga una cara para cargar, actualice la cantidad de caras del usuario correspondiente en la lista
                 if (_currentPageId == (int)PageIdEnum.User && m_lastfrm != null)
                 {
                     ((UCUser)m_lastfrm).UpdateUserFaceInfo(face);
@@ -677,7 +677,7 @@ namespace Attendance
         {
             if (BioPhotoBll.Add(bioPhoto) > 0)
             {
-                //当用户有面部上传时，则更新list中对应用户的面部数量
+                //Cuando el usuario tenga una cara para cargar, actualice la cantidad de caras del usuario correspondiente en la lista
                 if (_currentPageId == (int)PageIdEnum.User && m_lastfrm != null)
                 {
                     ((UCUser)m_lastfrm).UpdateUserFaceInfo(bioPhoto);
@@ -698,14 +698,14 @@ namespace Attendance
             if (errMessage.IndexOfEx("UnKnown message from device: POST /iclock/registry?") >= 0)
             {
                 string sn = GetDevSN(errMessage);
-                MessageBox.Show("有安防设备接入(SN=" + sn + ")，本服务仅支持考勤设备。", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Tener acceso al equipo de seguridad(SN=" + sn + ")，Este servicio solo admite equipos de asistencia.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
-            //写入本地txt 文件
+            //Escribir en el archivo txt local
             Log.WriteLogs(errMessage);
         }
         /// <summary>
-        /// 获取设备SN
+        /// Obtener dispositivo SN
         /// </summary>
         /// <param name="buffer"></param>
         /// <returns></returns>
@@ -754,7 +754,7 @@ namespace Attendance
 
         private Brush _brush = new SolidBrush(Color.FromArgb(37, 190, 167));
         /// <summary>
-        /// 改变选中节点的背景色
+        /// Cambiar el color de fondo del nodo seleccionado
         /// </summary>
         private void tvMenu_DrawNode(object sender, DrawTreeNodeEventArgs e)
         {

@@ -99,7 +99,7 @@ namespace Attendance
             string userID = txtUserID.Text.Trim();
             string devSN = cmbDevSN.Text.Trim();
 
-            //显示数据库中数据
+            //Mostrar datos en la base de datos
             try
             {
                 _dt = _bll.GetByTime(this.dtpStartTime.Value, this.dtpEndTime.Value, userID, devSN);
@@ -119,7 +119,7 @@ namespace Attendance
             LoadAttlogData();
         }
         /// <summary>
-        /// 删除所有数据按钮事件
+        /// Eliminar todos los eventos del botón de datos
         /// </summary>
         private void btnClearListAttLog_Click(object sender, EventArgs e)
         {
@@ -173,5 +173,6 @@ namespace Attendance
             this.picAttpho.Update();
         }
         #endregion
+
     }
 }

@@ -1,0 +1,25 @@
+﻿2020-09-22 17:26:40
+UnKnown message from device: GET /favicon.ico HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+Accept: image/webp,*/*
+Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+
+2020-09-22 17:28:19
+UnKnown message from device: GET /favicon.ico HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+Accept: image/webp,*/*
+Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+

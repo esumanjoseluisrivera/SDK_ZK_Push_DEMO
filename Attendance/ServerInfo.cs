@@ -6,21 +6,21 @@ using System.Text;
 namespace Attendance
 {
     /// <summary>
-    /// 服务器信息
+    /// información del servidor
     /// </summary>
     public class ServerInfo
     {
         /// <summary>
-        /// 服务器支持的协议版本号
+        /// Número de versión del protocolo admitido por el servidor
         /// </summary>
         public const string VERSION = "2.2.14";
         /// <summary>
-        /// 服务端依据哪个协议版本开发的
+        /// Según la versión del protocolo que se desarrolle el servidor
         /// </summary>
         public const string PushProtVer = "2.4.1";
 
         /// <summary>
-        /// 软件是否支持设备推送配置参数请求， 0不支持， 1支持， 未设置时默认不支持。
+        /// ¿El software admite la solicitud de parámetro de configuración de inserción del dispositivo? 0 no lo admite, 1 lo admite y no lo admite de forma predeterminada cuando no está configurado.
         /// </summary>
         public const string PushOptionsFlag = "1";
     }

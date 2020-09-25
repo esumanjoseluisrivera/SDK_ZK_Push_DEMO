@@ -18,3 +18,10 @@ D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\obj\Debug\Utils.csproj.CoreCompi
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\obj\Debug\Utils.dll
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\obj\Debug\Utils.pdb
 D:\PMO\push demo\PushDemo\Code\ZKPushDemo\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Utils\bin\Debug\Utils.dll.config
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Utils\bin\Debug\Utils.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Utils\bin\Debug\Utils.pdb
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Utils\obj\Debug\Utils.dll
+C:\Documentos\Desarrollo\SDK_ZK_Push_DEMO-master\Utils\obj\Debug\Utils.pdb

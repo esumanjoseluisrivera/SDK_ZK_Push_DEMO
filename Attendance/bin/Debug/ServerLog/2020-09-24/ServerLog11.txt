@@ -1,0 +1,137 @@
+﻿Sever Receive Data:  2020-09-24 11:02:00:409
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 11:02:00:633
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 16:02:00 GMT
+Content-Length: 2864
+
+
+
+Sever Send Data:  2020-09-24 11:02:00:717
+C:1682:DATA UPDATE BIODATA Pin=200	No=0	Index=0	Valid=1	Duress=0	Type=9	MajorVer=58	MinorVer=10	Format=0	Tmp=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
+
+
+
+Sever Receive Data:  2020-09-24 11:02:02:867
+POST /iclock/cdata?SN=CKJF202560310&table=options HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: text/plain
+Content-Length: 906
+
+~DeviceName=SpeedFace-V5L[TD],MAC=00:17:61:12:fa:f0,TransactionCount=28,~MaxAttLogCount=20,UserCount=3,~MaxUserCount=100,PhotoFunOn=1,~MaxUserPhotoCount=2500,FingerFunOn=1,FPVersion=10,~MaxFingerCount=60,FPCount=2,FaceFunOn=1,FaceVersion=58,~MaxFaceCount=6000,FaceCount=2,FvFunOn=0,FvVersion=3,~MaxFvCount=10,FvCount=0,PvFunOn=1,PvVersion=12,~MaxPvCount=3000,PvCount=0,Language=101,IPAddress=192.168.1.201,~Platform=ZAM170_TFT,~OEMVendor=ZKTeco Co., Ltd.,FWVersion=ZAM170-NF-Ver1.3.5,PushVersion=Ver 2.0.32S-20200513,RegDeviceType=,VisilightFun=1,MultiBioDataSupport=0:1:0:0:0:0:0:0:1:1,MultiBioPhotoSupport=0:0:0:0:0:0:0:0:0:1,IRTempDetectionFunOn=1,MaskDetectionFunOn=1,UserPicURLFunOn=,MultiBioVersion=0:10.0:0:0:0:0:0:0:12.0:58.10,MaxMultiBioDataCount=0:6000:0:0:0:0:0:0:3000:6000,MaxMultiBioPhotoCount=0:0:0:0:0:0:0:0:0:6000,MultiBioDataCount=0:2:0:0:0:0:0:0:0:2,MultiBioPhotoCount=0:0:0:0:0:0:0:0:0:0
+
+Sever Send Data:  2020-09-24 11:02:03:060
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 16:02:03 GMT
+Content-Length: 2
+
+
+
+Sever Send Data:  2020-09-24 11:02:03:068
+OK
+
+Sever Receive Data:  2020-09-24 11:02:03:607
+POST /iclock/devicecmd?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+Content-Type: application/octet-stream
+Content-Length: 26
+
+ID=1682&Return=0&CMD=DATA
+
+
+Sever Send Data:  2020-09-24 11:02:03:623
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 16:02:03 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 11:02:03:631
+OK
+
+
+Sever Receive Data:  2020-09-24 11:02:04:857
+GET /iclock/getrequest?SN=CKJF202560310&INFO=ZAM170-NF-Ver1.3.5,3,2,28,192.168.1.201,10,58,12,2,11110 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 11:02:04:887
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 16:02:04 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 11:02:04:894
+OK
+
+
+Sever Receive Data:  2020-09-24 11:02:05:673
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 11:02:05:749
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 16:02:05 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 11:02:05:757
+OK
+
+
+Sever Receive Data:  2020-09-24 11:02:06:606
+GET /iclock/getrequest?SN=CKJF202560310 HTTP/1.1
+Host: 192.168.1.107:8085
+User-Agent: iClock Proxy/1.09
+Connection: close
+Accept: */*
+
+
+
+Sever Send Data:  2020-09-24 11:02:06:682
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Thu, 24 Sep 2020 16:02:06 GMT
+Content-Length: 4
+
+
+
+Sever Send Data:  2020-09-24 11:02:06:689
+OK
+
+

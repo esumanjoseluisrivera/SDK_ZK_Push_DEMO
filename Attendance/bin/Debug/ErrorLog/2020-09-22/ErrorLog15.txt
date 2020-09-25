@@ -1,0 +1,6 @@
+﻿2020-09-22 15:38:49
+Se ha forzado la interrupción de una conexión existente por el host remoto
+
+2020-09-22 15:48:22
+Se ha forzado la interrupción de una conexión existente por el host remoto
+

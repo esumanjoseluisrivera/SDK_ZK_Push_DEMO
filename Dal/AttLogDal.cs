@@ -7,12 +7,12 @@ using Utils;
 namespace Dal
 {
     /// <summary>
-    /// 考勤记录
+    /// Registro de asistencia
     /// </summary>
     public class AttLogDal
     {
         /// <summary>
-        /// 获取考勤记录
+        /// Obtener registros de asistencia
         /// </summary>
         /// <param name="startTime"></param>
         /// <param name="endTime"></param>
@@ -42,7 +42,7 @@ select a.*,w.workname from AttLog a left join WorkCode w on a.workcode = w.workc
         }
 
         /// <summary>
-        /// 获取考勤记录
+        /// Obtener registros de asistencia
         /// </summary>
         /// <returns></returns>
         public DataTable GetAll()
@@ -51,7 +51,7 @@ select a.*,w.workname from AttLog a left join WorkCode w on a.workcode = w.workc
             return SqliteHelper.GetDataTable(sql);
         }
         /// <summary>
-        /// 清空考勤记录
+        /// Registros claros de asistencia
         /// </summary>
         /// <returns></returns>
         public int ClearAll()
@@ -60,7 +60,7 @@ select a.*,w.workname from AttLog a left join WorkCode w on a.workcode = w.workc
             return SqliteHelper.ExecuteNonQuery(sql);
         }
         /// <summary>
-        /// 新增
+        /// Añadir
         /// </summary>
         /// <param name="attlog"></param>
         /// <returns></returns>
@@ -89,7 +89,7 @@ insert into AttLog(
             return SqliteHelper.ExecuteNonQuery(sql, parameters);
         }
         /// <summary>
-        /// 是否存在
+        /// existe
         /// </summary>
         /// <param name="pin"></param>
         /// <param name="attTime"></param>

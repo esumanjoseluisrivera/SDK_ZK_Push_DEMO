@@ -39,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AttLogBll.cs" />
+    <Compile Include="Borrar_es_solo_ejemplo.cs" />
     <Compile Include="DeviceBll.cs" />
     <Compile Include="DeviceCmdBll.cs" />
     <Compile Include="ErrorLogBll.cs" />

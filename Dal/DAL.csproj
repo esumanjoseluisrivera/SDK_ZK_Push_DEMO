@@ -45,6 +45,7 @@
     <Compile Include="OpLogDal.cs" />
     <Compile Include="SmsDal.cs" />
     <Compile Include="SqliteHelper.cs" />
+    <Compile Include="SqlserverHelper.cs" />
     <Compile Include="TmpBioDataDal.cs" />
     <Compile Include="TmpBioPhotoDal.cs" />
     <Compile Include="TmpFaceDal.cs" />

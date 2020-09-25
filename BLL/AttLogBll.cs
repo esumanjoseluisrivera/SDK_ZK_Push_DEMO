@@ -7,13 +7,13 @@ using System.Data;
 namespace BLL
 {
     /// <summary>
-    /// 考勤日志
+    /// Registro de asistencia
     /// </summary>
     public class AttLogBll
     {
         private AttLogDal _dal = new AttLogDal();
         /// <summary>
-        /// 获取记录
+        /// Obtener registros
         /// </summary>
         /// <param name="starttime"></param>
         /// <param name="endtime"></param>
@@ -25,7 +25,7 @@ namespace BLL
             return _dal.GetByTime(starttime, endtime, userid, devsn);
         }
         /// <summary>
-        /// 清空记录
+        /// Limpiar registros
         /// </summary>
         /// <returns></returns>
         public int ClearAll()
@@ -33,7 +33,7 @@ namespace BLL
             return _dal.ClearAll();
         }
         /// <summary>
-        /// 新增
+        /// Añadir
         /// </summary>
         /// <param name="attlog"></param>
         /// <returns></returns>
